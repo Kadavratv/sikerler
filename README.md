@@ -16,7 +16,7 @@
 
 # Heroku'da Clonlamak
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReislerSupport/dcbot2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kadavratv/sikerler)
 
 ## Alanları Doldurma
 * ``BOT_TOKEN``: Botunuzun tokeni t.me/botfather alınız!
